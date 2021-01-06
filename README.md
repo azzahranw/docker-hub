@@ -14,4 +14,5 @@
 - Tidak perlu mengunduh secara manual images yang diperlukan
 - perintah `docker-compose up -d` di atas sudah otomatis mengunduh seluruh images
 
-link repo docker hub : 
+link images docker hub : 
+https://hub.docker.com/repository/docker/azzahranw/docker-hub
